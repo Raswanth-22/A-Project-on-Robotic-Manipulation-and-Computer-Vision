@@ -4,4 +4,4 @@ Developed an autonomous robotic system for sorting and stacking colored blocks u
 
 ### Demo Video
 
-![Robotic Manipulation Demo](images/robot_clip.gif)
+![Robotic Manipulation Demo](images/robot_clip.gif) 
